@@ -1,21 +1,21 @@
 [submodule "Book1"]
 	path = Book1
-	url = https://github.com/isaacyhe/Book1_Python-For-Beginners.git
+	url = https://github.com/Visualize-ML/Book1_Python-For-Beginners.git
 [submodule "Book2"]
 	path = Book2
-	url = https://github.com/isaacyhe/Book2_Beauty-of-Data-Visualization.git
+	url = https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization.git
 [submodule "Book3"]
 	path = Book3
-	url = https://github.com/isaacyhe/Book3_Elements-of-Mathematics.git
+	url = https://github.com/Visualize-ML/Book3_Elements-of-Mathematics.git
 [submodule "Book4"]
 	path = Book4
-	url = https://github.com/isaacyhe/Book4_Power-of-Matrix.git
+	url = https://github.com/Visualize-ML/Book4_Power-of-Matrix.git
 [submodule "Book5"]
 	path = Book5
-	url = https://github.com/isaacyhe/Book5_Essentials-of-Probability-and-Statistics.git
+	url = https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics.git
 [submodule "Book6"]
 	path = Book6
-	url = https://github.com/isaacyhe/Book6_First-Course-in-Data-Science.git
+	url = https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science.git
 [submodule "Book7"]
 	path = Book7
-	url = https://github.com/isaacyhe/Book7_Visualizations-for-Machine-Learning.git
+	url = https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning.git
